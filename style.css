@@ -1,6 +1,21 @@
 /*
-Theme Name:	ericlapierre-V1
+Theme Name: Eric Lapierre's Theme
+Template: twentyeleven
+Theme URI: http://ericlapierre.ca
+Description: Child theme
+Author: Eric Lapierre
+Author URI: http://ericlapierre.ca
+Version: 1.0
+Tags: smart,guy
+
+License:
+License URI:
 
 */
 
+@import url("../twentyeleven/style.css");
 
+body
+{
+background-image:url('http://ericlapierre.ca/files/dark_dotted.png');
+}
